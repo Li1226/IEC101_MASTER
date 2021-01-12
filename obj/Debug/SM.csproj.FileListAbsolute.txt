@@ -1,0 +1,14 @@
+F:\C#\C# test\SM\SM\bin\Debug\SM.exe.config
+F:\C#\C# test\SM\SM\bin\Debug\SM.exe
+F:\C#\C# test\SM\SM\bin\Debug\SM.pdb
+F:\C#\C# test\SM\SM\obj\Debug\SM.csprojAssemblyReference.cache
+F:\C#\C# test\SM\SM\obj\Debug\SM.Form1.resources
+F:\C#\C# test\SM\SM\obj\Debug\SM.Properties.Resources.resources
+F:\C#\C# test\SM\SM\obj\Debug\SM.csproj.GenerateResource.cache
+F:\C#\C# test\SM\SM\obj\Debug\SM.csproj.CoreCompileInputs.cache
+F:\C#\C# test\SM\SM\obj\Debug\SM.exe
+F:\C#\C# test\SM\SM\obj\Debug\SM.pdb
+F:\C#\C# test\SM\SM\obj\Debug\SM._TextOptions.resources
+F:\C#\C# test\SM\SM\obj\Debug\SM._101setting.resources
+F:\C#\C# test\SM\SM\obj\Debug\SM.AutoTest.resources
+F:\C#\C# test\SM\SM\obj\Debug\SM.YK.resources
